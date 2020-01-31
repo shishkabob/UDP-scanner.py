@@ -1,4 +1,4 @@
-#This code created as a UDP "ping scanner" by following along in "Black Hat Python: Python Programming for Hackers and Pentesters", Chapter 3, by Justin Seitz, No Starch Press, December 2014
+#This code created by OS-34761 as a UDP "ping scanner" by following along in "Black Hat Python: Python Programming for Hackers and Pentesters", Chapter 3, by Justin Seitz, No Starch Press, December 2014
 import socket
 import os
 import struct
